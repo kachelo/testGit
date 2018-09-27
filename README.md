@@ -6,4 +6,7 @@ Tomamos un taller de Git/github en el marco de la
 
 Vimos comandos básicos y ahora un poco de GitHub.
 
+Genial ya pude subir cambios a GitHUb.
+Veamos si podemos bajar los nuevos cambios?
+
 
